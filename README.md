@@ -1,2 +1,2 @@
 # PdB
-Mon bot Bloup
+Ce script est un template de bot en JavaScript
